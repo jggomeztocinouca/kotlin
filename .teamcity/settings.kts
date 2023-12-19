@@ -33,6 +33,7 @@ project {
 
 object Build : BuildType({
     name = "Build"
+    description = "Ejercicio Dev/Ops VS UCA"
 
     vcs {
         root(DslContext.settingsRoot)
